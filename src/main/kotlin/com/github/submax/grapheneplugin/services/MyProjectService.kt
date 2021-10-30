@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.submax.grapheneplugin.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.submax.grapheneplugin.MyBundle
 
 class MyProjectService(project: Project) {
 

@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.submax.grapheneplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.submax.grapheneplugin.MyBundle
 
 class MyApplicationService {
 
